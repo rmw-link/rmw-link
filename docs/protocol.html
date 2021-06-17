@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>1 · 人民网络通讯协议设计 | 人民网络</title>
+    <meta name="generator" content="VuePress 1.8.2">
+    
+    <meta name="description" content="打到数据霸权 · 网络土地革命">
+    
+    <link rel="preload" href="/assets/css/0.styles.56009c8b.css" as="style"><link rel="preload" href="/assets/js/app.f1e647ba.js" as="script"><link rel="preload" href="/assets/js/2.2cf0bd69.js" as="script"><link rel="preload" href="/assets/js/7.ef89632f.js" as="script"><link rel="prefetch" href="/assets/js/3.e1992e78.js"><link rel="prefetch" href="/assets/js/4.25aeee50.js"><link rel="prefetch" href="/assets/js/5.b81b1500.js"><link rel="prefetch" href="/assets/js/6.81558d31.js"><link rel="prefetch" href="/assets/js/8.efcd2f27.js"><link rel="prefetch" href="/assets/js/9.1fd66ad3.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.56009c8b.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">人民网络</span></a> <div class="links"><!----> <!----></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><!---->  <ul class="sidebar-links"><li><a href="/" aria-current="page" class="sidebar-link">人民网络 · 开发日志</a></li><li><a href="/protocol.html" aria-current="page" class="active sidebar-link">1 · 人民网络通讯协议设计</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/protocol.html#身份" class="sidebar-link">身份</a></li></ul></li><li><a href="/stack.html" class="sidebar-link">技术栈</a></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="_1-·-人民网络通讯协议设计"><a href="#_1-·-人民网络通讯协议设计" class="header-anchor">#</a> 1 · 人民网络通讯协议设计</h1> <p>在构建软件之前，先要定义通讯协议。</p> <p>我们的目标是实现无中央服务器的对等网络 ：在这个架构中，人人平等，没有人垄断数据。</p> <h2 id="身份"><a href="#身份" class="header-anchor">#</a> 身份</h2> <p>加入网之前的第一件事是就是生成身份标识。</p> <p>身份标识是Ed25519密钥对。</p> <p>首次启动时，客户端会自动生成一个Ed25519密钥对并将其保存在数据目录下的 <code>ed25519.pk</code> 和  <code>ed25519.sk</code> 。</p> <p>不同设备可以使用同一组秘钥，也就是说，你的平板、手机、电脑可以同时在线。</p></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
+      ←
+      <a href="/" class="prev router-link-active">
+        人民网络 · 开发日志
+      </a></span> <span class="next"><a href="/stack.html">
+        技术栈
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
+    <script src="/assets/js/app.f1e647ba.js" defer></script><script src="/assets/js/2.2cf0bd69.js" defer></script><script src="/assets/js/7.ef89632f.js" defer></script>
+  </body>
+</html>

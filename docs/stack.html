@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.17e34f9c.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/9.b2df9f43.js" as="script"><link rel="prefetch" href="/assets/js/3.6144208a.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/7.7241a9ab.js"><link rel="prefetch" href="/assets/js/8.26aff240.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.b61cfc33.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/9.061ec567.js" as="script"><link rel="prefetch" href="/assets/js/3.6144208a.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/7.7241a9ab.js"><link rel="prefetch" href="/assets/js/8.26aff240.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -96,7 +96,7 @@ impl&lt;
     }
   }
 }
-</code></pre></div><h4 id="to-owned"><a href="#to-owned" class="header-anchor">#</a> <code>to_owned</code></h4> <p>把数据从栈中复制到堆中，成为自己的数据。</p> <p>一般就是转型为兄弟类型的数据，比如</p> <ul><li>&amp;str =&gt; String</li> <li>Path =&gt; PathBuf</li></ul> <h4 id="feature-decl-macro"><a href="#feature-decl-macro" class="header-anchor">#</a> <code>#![feature(decl_macro)]</code></h4> <p><code>macro_rules!</code></p> <p>声明的宏没法使用use，否则会出现reimported（当调用一个宏多次之后）</p> <p>加入 #![feature(decl_macro)] 之后就可以使用</p> <p>类似这样的写法</p> <div class="language- extra-class"><pre class="language-text"><code>#[macro_export]
+</code></pre></div><h4 id="to-owned"><a href="#to-owned" class="header-anchor">#</a> <code>to_owned</code></h4> <p>把数据从栈中复制到堆中，成为自己的数据。</p> <p>一般就是转型为兄弟类型的数据，比如</p> <ul><li>&amp;str =&gt; String</li> <li>Path =&gt; PathBuf</li></ul> <h4 id="feature-decl-macro"><a href="#feature-decl-macro" class="header-anchor">#</a> <code>#![feature(decl_macro)]</code></h4> <p><code>macro_rules!</code> 声明的宏没法使用use，否则会出现reimported（当调用一个宏多次之后）</p> <p>加入 #![feature(decl_macro)] 之后就可以使用</p> <p>类似这样的写法</p> <div class="language- extra-class"><pre class="language-text"><code>#[macro_export]
 pub macro repr($cls:ident) {
   use sdb::direct_repr;
   direct_repr!($cls);
@@ -106,6 +106,6 @@ pub macro repr($cls:ident) {
       <a href="/protocol.html" class="prev">
         对等网通讯协议设计
       </a></span> <!----></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.17e34f9c.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/9.b2df9f43.js" defer></script>
+    <script src="/assets/js/app.b61cfc33.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/9.061ec567.js" defer></script>
   </body>
 </html>

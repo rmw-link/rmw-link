@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.b5015e49.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.8fe16d6e.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.11215542.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.cd13faa6.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.bc54785e.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.11215542.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -20,12 +20,17 @@
   网页版
   <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li><li class="dropdown-item"><!----> <a href="https://rmw.zulipchat.com/apps" target="_blank" rel="noopener noreferrer" class="nav-link external">
   客户端
-  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li></ul></div></div> <!----></nav>  <ul class="sidebar-links"><li><a href="/" aria-current="page" class="sidebar-link">序章</a></li><li><a href="/protocol.html" class="sidebar-link">对等网通讯协议设计</a></li><li><a href="/db.html" aria-current="page" class="active sidebar-link">数据库设计</a></li><li><a href="/stack.html" class="sidebar-link">技术栈 &amp; 参考资料</a></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="数据库设计"><a href="#数据库设计" class="header-anchor">#</a> 数据库设计</h1> <p>表</p> <ol start="0"><li><p>id - 私钥</p></li> <li><p>公钥 - id</p></li> <li><p>登录时间 - 私钥id</p></li> <li><p>私钥id - 登录时间</p></li> <li><p>私钥id - 用户昵称(不超过32个字符)</p></li> <li><p>id - 公钥</p></li> <li><p>id - 公钥id  // 我订阅的公钥</p></li> <li><p>id -</p></li></ol> <p>// 公钥的订阅者
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li></ul></div></div> <!----></nav>  <ul class="sidebar-links"><li><a href="/" aria-current="page" class="sidebar-link">序章</a></li><li><a href="/protocol.html" class="sidebar-link">对等网通讯协议设计</a></li><li><a href="/db.html" aria-current="page" class="active sidebar-link">数据库设计</a></li><li><a href="/stack.html" class="sidebar-link">技术栈 &amp; 参考资料</a></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="数据库设计"><a href="#数据库设计" class="header-anchor">#</a> 数据库设计</h1> <p>表</p> <ol start="0"><li><p>id - 私钥</p></li> <li><p>公钥 - id</p></li> <li><p>登录时间 - 私钥id</p></li> <li><p>私钥id - 登录时间</p></li> <li><p>私钥id - 用户昵称(不超过32个字符)</p></li> <li><p>id - 公钥</p></li> <li><p>id - 公钥id + 前一个公钥id  // 我订阅的公钥</p></li> <li><p>id -</p></li></ol> <p>// 公钥的订阅者
 // 100. id - 可用的IPV4 &amp; 端口
 // 101. 最后成功连接的时间 - ipv4.id
 // 102. ipv4.id - 最后成功连接时间
 // 103. ipv4.id - 公钥id // 1-1
-// 104. 公钥id - ipv4.id // 1-n</p></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
+// 104. 公钥id - ipv4.id // 1-n</p> <p>订阅A频道
+广度遍历A的订阅者
+A按照Kad存储32<em>8</em>16=不超过4096个订阅者
+不断迭代填充自己的K桶
+检测更新
+同步内容</p> <p>为了防止攻击，每个订阅者订阅需要给A支付</p></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
       ←
       <a href="/protocol.html" class="prev">
         对等网通讯协议设计
@@ -34,6 +39,6 @@
       </a>
       →
     </span></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.b5015e49.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.8fe16d6e.js" defer></script>
+    <script src="/assets/js/app.cd13faa6.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.bc54785e.js" defer></script>
   </body>
 </html>

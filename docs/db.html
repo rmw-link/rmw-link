@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.545f7431.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.07c2a010.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.11215542.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.e69de5c5.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.a37e5022.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.11215542.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -25,7 +25,8 @@
 UDP 空包的大小 = IP头(20) + UDP头(8) = 28
 也就是理论上维持连接的带宽消耗为 2048/19*28 = 3242字节每秒
 事实上应该没有这么多，因为不会32个bucket都填满</p> <p>网络接口</p> <p>FIND 公钥</p> <p>返回公钥编辑距离对应的kad桶和候补桶
-如果不足24个，从前后的桶取可用+候补的填充直到填满24个</p> <h1 id="数据库设计"><a href="#数据库设计" class="header-anchor">#</a> 数据库设计</h1> <p>表</p> <ol start="0"><li><p>id - 私钥</p></li> <li><p>公钥 - id</p></li> <li><p>登录时间 - 私钥id</p></li> <li><p>私钥id - 登录时间</p></li> <li><p>私钥id - 用户昵称(不超过32个字符)</p></li> <li><p>id - 公钥</p></li> <li><p>id - 公钥id + 前一个公钥id  // 我订阅的公钥</p></li> <li><p>id -</p></li></ol> <p>// 公钥的订阅者
+如果不足24个，从前后的桶取可用+候补的填充直到填满24个
+返回公钥+IP端口</p> <h1 id="数据库设计"><a href="#数据库设计" class="header-anchor">#</a> 数据库设计</h1> <p>表</p> <ol start="0"><li><p>id - 私钥</p></li> <li><p>公钥 - id</p></li> <li><p>登录时间 - 私钥id</p></li> <li><p>私钥id - 登录时间</p></li> <li><p>私钥id - 用户昵称(不超过32个字符)</p></li> <li><p>id - 公钥</p></li> <li><p>id - 公钥id + 前一个公钥id  // 我订阅的公钥</p></li> <li><p>id -</p></li></ol> <p>// 公钥的订阅者
 // 100. id - 可用的IPV4 &amp; 端口
 // 101. 最后成功连接的时间 - ipv4.id
 // 102. ipv4.id - 最后成功连接时间
@@ -44,6 +45,6 @@ A按照Kad存储32<em>8</em>16=不超过4096个订阅者
       </a>
       →
     </span></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.545f7431.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.07c2a010.js" defer></script>
+    <script src="/assets/js/app.e69de5c5.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.a37e5022.js" defer></script>
   </body>
 </html>

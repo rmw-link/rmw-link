@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.324eb84e.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.b60b0efb.js" as="script"><link rel="prefetch" href="/assets/js/10.4e5392d6.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.7f821dfc.js"><link rel="prefetch" href="/assets/js/9.67ff8344.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.ac3e93ed.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.a539073c.js" as="script"><link rel="prefetch" href="/assets/js/10.4e5392d6.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.7f821dfc.js"><link rel="prefetch" href="/assets/js/9.67ff8344.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -30,7 +30,8 @@
 <ul><li>积分计算公式
 <ul><li>推送成功一次 积分 = log(e**积分 + (t-1624596444)/7/24/3600))</li></ul></li></ul></li></ul></li></ul></li> <li><p>获取频道根节点的哈希</p> <ul><li>参数
 <ul><li>频道的公钥</li></ul></li> <li>返回
-<ul><li>哈希</li> <li>时间戳</li> <li>频道对标题(哈希+时间戳)的签名</li></ul></li></ul></li></ul> <p>接口
+<ul><li>哈希</li> <li>时间戳</li> <li>频道对标题(哈希+时间戳)的签名</li></ul></li></ul></li> <li><p>推送频道的更新</p> <ul><li>参数
+<ul><li>频道公钥</li> <li>频道最新的哈希</li> <li>更新时间</li> <li>签名</li></ul></li></ul></li></ul> <p>接口
 获取A的订阅列表，按A同步次数排序
 查找节点 公钥</p> <p>KAD网络设计</p> <p>有64个桶，每个桶大小为8，当前一个桶被填满的时候，会分裂一下去填充下一个桶。</p> <p>每个桶再保留32个作为候补，这样就有 32<em>8</em>16 = 4096个候补。</p> <p>每个节点会与自己相近的32<em>8</em>16=2048个节点保持通讯
 心跳包每19秒一次
@@ -57,6 +58,6 @@ A按照Kad存储32<em>8</em>16=不超过4096个订阅者
       </a>
       →
     </span></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.324eb84e.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.b60b0efb.js" defer></script>
+    <script src="/assets/js/app.ac3e93ed.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.a539073c.js" defer></script>
   </body>
 </html>

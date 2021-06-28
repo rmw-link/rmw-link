@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.241a3dfe.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.32fb44c3.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.7f821dfc.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.9f31c815.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.6e578f03.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.7f821dfc.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -28,13 +28,14 @@
 <ul><li>编辑距离</li></ul></li> <li>返回
 <ul><li>[公钥 信用分]
 <ul><li>积分计算公式
-<ul><li>推送成功一次 积分 = log(e**积分 + (t-1624596444)/7/24/3600))</li></ul></li></ul></li></ul></li></ul></li> <li><p>获取频道下一个哈希</p> <ul><li>参数
+<ul><li>推送成功一次 积分 = log(e**积分 + (t-1624596444)/7/24/3600))</li></ul></li></ul></li></ul></li></ul></li> <li><p>获取频道下一个更新哈希</p> <ul><li>参数
 <ul><li>频道的公钥</li> <li>当前哈希 （如果为空，表示头开始）</li></ul></li> <li>返回
 <ul><li>没更新 返回 空</li> <li>有更新
-<ul><li>时间戳</li> <li>哈希</li> <li>更新内容的大小</li> <li>更新内容的标题(不超过64个字节)</li> <li>频道对标题(时间戳+哈希+更新内容大小+上一个哈希)的签名</li></ul></li></ul></li></ul></li> <li><p>通过根节点哈希获取频道更新内容目录</p> <ul><li>参数
-*</li></ul></li></ul> <p>接口
+<ul><li>时间戳</li> <li>哈希</li> <li>更新内容的大小</li> <li>更新内容的标题(不超过64个字节)</li> <li>频道对标题(时间戳+哈希+更新内容大小+上一个哈希)的签名</li></ul></li></ul></li></ul></li> <li><p>通过哈希获取内容</p> <ul><li>参数
+<ul><li>哈希</li> <li>offset</li></ul></li> <li>返回值
+<ul><li>哈希</li> <li>offset</li></ul></li></ul></li></ul> <h1 id="https-doc-rust-lang-org-std-io-trait-seek-html"><a href="#https-doc-rust-lang-org-std-io-trait-seek-html" class="header-anchor">#</a> https://doc.rust-lang.org/std/io/trait.Seek.html</h1> <h1 id="https-docs-rs-memmap-0-7-0-memmap-struct-mmapmut-html"><a href="#https-docs-rs-memmap-0-7-0-memmap-struct-mmapmut-html" class="header-anchor">#</a> https://docs.rs/memmap/0.7.0/memmap/struct.MmapMut.html</h1> <h1 id="https-github-com-oconnor663-bao"><a href="#https-github-com-oconnor663-bao" class="header-anchor">#</a> https://github.com/oconnor663/bao</h1> <p>频道更新哈希可以获取频道更新的目录</p> <p>接口
 获取A的订阅列表，按A同步次数排序
-查找节点 公钥</p> <p>KAD网络设计</p> <p>有64个桶，每个桶大小为8，当前一个桶被填满的时候，会分裂一下去填充下一个桶。</p> <p>每个桶再保留32个作为候补，这样就有 32<em>8</em>16 = 4096个候补。</p> <p>每个节点会与自己相近的32<em>8</em>16=2048个节点保持通讯
+查找节点公钥</p> <p>KAD网络设计</p> <p>有64个桶，每个桶大小为8，当前一个桶被填满的时候，会分裂一下去填充下一个桶。</p> <p>每个桶再保留32个作为候补，这样就有 32<em>8</em>16 = 4096个候补。</p> <p>每个节点会与自己相近的32<em>8</em>16=2048个节点保持通讯
 心跳包每19秒一次
 UDP 空包的大小 = IP头(20) + UDP头(8) = 28
 也就是理论上维持连接的带宽消耗为 2048/19*28 = 3242字节每秒
@@ -59,6 +60,6 @@ A按照Kad存储32<em>8</em>16=不超过4096个订阅者
       </a>
       →
     </span></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.241a3dfe.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.32fb44c3.js" defer></script>
+    <script src="/assets/js/app.9f31c815.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.6e578f03.js" defer></script>
   </body>
 </html>

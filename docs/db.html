@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.727cbd65.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.849d8c62.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.7f821dfc.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.a7427d4a.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.85cc7a13.js" as="script"><link rel="prefetch" href="/assets/js/10.237aff59.js"><link rel="prefetch" href="/assets/js/3.2bcb6cf2.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.7f821dfc.js"><link rel="prefetch" href="/assets/js/9.b71317ad.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -37,20 +37,17 @@
 <ul><li>哈希</li> <li>offset</li></ul></li></ul></li></ul> <p>// 每个文件如果大于1458176字节就有一个merkletree哈希文件
 // 文件下载下来之后会做一次merkletree效验，如果有问题</p> <ul><li><p>通过哈希获取内容</p> <ul><li>参数
 <ul><li>哈希</li> <li>offset</li></ul></li> <li>返回值
-<ul><li>哈希</li> <li>offset</li></ul></li></ul> <p>下载进度的数据结构</p> <ul><li>起始offset</li> <li>收到的碎片offset</li> <li>结束offset</li></ul> <p>请求速度统计</p> <ul><li>统计每秒收到的包数</li> <li>begin = 最大收到的的offset - 统计每秒收到的包数
+<ul><li>哈希</li> <li>offset</li></ul></li></ul> <p>下载进度的数据结构</p> <ul><li>起始offset</li> <li>收到的碎片offset</li> <li>结束offset</li></ul> <p>拥塞控制</p> <p>上一秒收到的包数
+这一秒收到的包数
+当前请求包的速度 // 初始请求的包速度为 1024*1024 字节 (可配置？)</p> <p>if 如果这一秒收到的包数 &gt;= 当前请求包的速度
+每秒请求的包数 = 请求包的速度*2 + 1
+else
+每秒请求的包数 = max(这一秒收到的包数,上一秒收到的包数)+1</p> <p>丢包重发</p> <ul><li><p>begin = 最后一个获得的包 - 当前请求包的速度 * 4(可配置？)
 if begin &gt; 起始offset
 for i in 起始+1 to begin
 如果 not in 收到
-位图为1
-不超过1424字节</li></ul> <p>上一秒收到的包数
-这一秒收到的包数
-当前请求包的速度</p> <p>if 如果这一秒收到的包数 &gt;= 当前请求包的速度
-请求包的速度 = 请求包的速度*2 + 1
-else
-if 如果这一秒收到的包数 &gt;= 上一秒收到的包数
-请求的包数 = 这一秒收到的包数 + 1
-else
-请求的包数 = 1+上一秒收到的包数</p> <p>if 收到的包数 &gt;= 请求的包数
+位图为1</p> <p>不超过1424字节
+不超过每秒请求的包数</p></li></ul> <p>if 收到的包数 &gt;= 请求的包数
 请求的包数 = 请求的包数+1
 else
 请求的包数 = max(1,请求的包数/2)</p> <p>请求流程</p> <ul><li>最后一个碎片的offset</li></ul> <p>收到响应</p> <ul><li>如果碎片 = 开始+1
@@ -93,6 +90,6 @@ A按照Kad存储32<em>8</em>16=不超过4096个订阅者
       </a>
       →
     </span></p></div> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.727cbd65.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.849d8c62.js" defer></script>
+    <script src="/assets/js/app.a7427d4a.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.85cc7a13.js" defer></script>
   </body>
 </html>

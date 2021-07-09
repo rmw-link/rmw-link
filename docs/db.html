@@ -8,7 +8,7 @@
     
     <meta name="description" content="打到数据霸权 · 网络土地革命">
     
-    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.8fbbbfa0.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.85cc7a13.js" as="script"><link rel="prefetch" href="/assets/js/10.29dd1420.js"><link rel="prefetch" href="/assets/js/11.8c22ab89.js"><link rel="prefetch" href="/assets/js/3.ab2beb01.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.162c6469.js"><link rel="prefetch" href="/assets/js/9.eb94741b.js">
+    <link rel="preload" href="/assets/css/0.styles.dfad8694.css" as="style"><link rel="preload" href="/assets/js/app.359c70af.js" as="script"><link rel="preload" href="/assets/js/2.a01aeaf6.js" as="script"><link rel="preload" href="/assets/js/7.bff20ad9.js" as="script"><link rel="prefetch" href="/assets/js/10.29dd1420.js"><link rel="prefetch" href="/assets/js/11.8c22ab89.js"><link rel="prefetch" href="/assets/js/3.ab2beb01.js"><link rel="prefetch" href="/assets/js/4.4795506f.js"><link rel="prefetch" href="/assets/js/5.d13bf46d.js"><link rel="prefetch" href="/assets/js/6.073f30d6.js"><link rel="prefetch" href="/assets/js/8.162c6469.js"><link rel="prefetch" href="/assets/js/9.eb94741b.js">
     <link rel="stylesheet" href="/assets/css/0.styles.dfad8694.css">
   </head>
   <body>
@@ -35,9 +35,9 @@
 <ul><li>时间戳 (不能大于当前系统时间+100秒，不能小于前一个哈希的时间，否则忽略)</li> <li>哈希</li> <li>更新内容的大小</li> <li>文件名 不超过128个中文字符（或256个英文）</li> <li>频道对标题(时间戳+文件名+哈希+更新内容大小+上一个哈希)的签名</li></ul></li></ul></li></ul></li> <li><p>通过哈希获取merkletree</p> <ul><li>参数
 <ul><li>哈希</li> <li>offset</li> <li>位图</li></ul></li> <li>返回值
 <ul><li>哈希</li> <li>offset</li></ul></li></ul></li></ul> <p>// 每个文件如果大于1458176字节就有一个merkletree哈希文件
-// 文件下载下来之后会做一次merkletree效验，如果有问题</p> <ul><li><p>通过哈希获取内容</p> <ul><li>参数
-<ul><li>哈希</li> <li>offset</li></ul></li> <li>返回值
-<ul><li>哈希</li> <li>offset</li></ul></li></ul> <p>下载进度的数据结构</p> <ul><li>起始offset</li> <li>收到的碎片offset</li> <li>结束offset</li></ul> <p>拥塞控制</p> <p>上一秒收到的包数
+// 文件下载下来之后会做一次merkletree效验，如果有问题</p> <ul><li><p>通过哈希获取内容</p> <ul><li><p>参数</p> <ul><li>哈希</li> <li>offset</li></ul></li> <li><p>返回值</p> <ul><li>哈希</li> <li>offset</li></ul></li></ul> <p>下载进度的数据结构</p> <ul><li>起始offset</li> <li>缺失的碎片</li> <li>结束offset</li></ul></li> <li><p>响应</p> <p>缺失 某个包
+会向另外一个终端请求
+直到遍历完所有终端</p> <p>拥塞控制</p> <p>上一秒收到的包数
 这一秒收到的包数
 当前请求包的速度 // 初始请求的包速度为 1024*1024 字节 (可配置？)</p> <p>if 如果这一秒收到的包数 &gt;= 当前请求包的速度
 每秒请求的包数 = 请求包的速度*2 + 1
@@ -51,7 +51,7 @@ for i in 起始+1 to begin
 请求的包数 = 请求的包数+1
 else
 请求的包数 = max(1,请求的包数/2)</p> <p>请求流程</p> <ul><li>最后一个碎片的offset</li></ul> <p>收到响应</p> <ul><li>如果碎片 = 开始+1
-n = 1<br>
+n = 1
 -&gt; 如果最后一个碎片 == n
 end -= 1
 continue
@@ -82,6 +82,6 @@ A按照Kad存储32<em>8</em>16=不超过4096个订阅者
 不断迭代填充自己的K桶
 检测更新
 同步内容</p> <p>为了防止攻击，每个订阅者订阅需要给A支付</p></div> <footer class="page-edit"><!----> <!----></footer> <!----> </main></div><div class="global-ui"><div data-v-288be2bf></div></div></div>
-    <script src="/assets/js/app.8fbbbfa0.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.85cc7a13.js" defer></script>
+    <script src="/assets/js/app.359c70af.js" defer></script><script src="/assets/js/2.a01aeaf6.js" defer></script><script src="/assets/js/7.bff20ad9.js" defer></script>
   </body>
 </html>

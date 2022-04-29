@@ -1,1 +1,0 @@
-const t={key:"v-aa38e7a2",path:"/et/log/2021-12-20-js.html",title:"Minu node.js t\xF6\xF6riistade raamatukogu",lang:"et",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"et/log/2021-12-20-js.md"};export{t as data};

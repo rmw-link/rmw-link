@@ -1,0 +1,1 @@
+const t={key:"v-6f0de04d",path:"/pt/link.html",title:"Biblioteca de c\xF3digo aberto",lang:"pt",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"pt/link.md"};export{t as data};

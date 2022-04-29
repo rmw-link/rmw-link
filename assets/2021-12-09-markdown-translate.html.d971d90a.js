@@ -1,1 +1,0 @@
-const t={key:"v-fa48bc5c",path:"/cs/log/2021-12-09-markdown-translate.html",title:"markdown p\u0159ekladatelsk\xE9 n\xE1stroje",lang:"cs",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"cs/log/2021-12-09-markdown-translate.md"};export{t as data};

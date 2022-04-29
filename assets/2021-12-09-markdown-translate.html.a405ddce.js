@@ -1,0 +1,1 @@
+const t={key:"v-1f8f4ad6",path:"/hu/log/2021-12-09-markdown-translate.html",title:"markdown ford\xEDt\xE1si eszk\xF6z\xF6k",lang:"hu",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"hu/log/2021-12-09-markdown-translate.md"};export{t as data};

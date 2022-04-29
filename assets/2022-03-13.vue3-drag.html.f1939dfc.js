@@ -1,0 +1,1 @@
+const t={key:"v-61697580",path:"/it/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag: una scatola di ritaglio trascinabile e ridimensionabile",lang:"it",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"it/log/2022-03-13.vue3-drag.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-68c9d48c",path:"/lt/log/2021-12-09-markdown-translate.html",title:"Markdown vertimo \u012Frankiai",lang:"lt",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"lt/log/2021-12-09-markdown-translate.md"};export{t as data};

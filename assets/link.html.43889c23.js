@@ -1,0 +1,1 @@
+const t={key:"v-0f57f5d6",path:"/fr/link.html",title:"Biblioth\xE8que Open Source",lang:"fr",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"fr/link.md"};export{t as data};

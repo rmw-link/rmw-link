@@ -1,1 +1,0 @@
-const e={key:"v-2d0a8a33",path:"/fi/",title:"Prologi",lang:"fi",frontmatter:{},excerpt:"",headers:[{level:2,title:"Miten rakennetaan tasa-arvoinen Internet kaikille?",slug:"miten-rakennetaan-tasa-arvoinen-internet-kaikille",children:[]}],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"fi/readme.md"};export{e as data};

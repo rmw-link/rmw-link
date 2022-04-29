@@ -1,1 +1,0 @@
-const e={key:"v-2d0abc93",path:"/sv/",title:"Prolog",lang:"sv",frontmatter:{},excerpt:"",headers:[{level:2,title:"Hur bygger vi ett lika internet f\xF6r alla?",slug:"hur-bygger-vi-ett-lika-internet-for-alla",children:[]}],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"sv/readme.md"};export{e as data};

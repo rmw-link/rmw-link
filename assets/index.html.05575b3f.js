@@ -1,1 +1,0 @@
-const e={key:"v-0fe13913",path:"/es/log/",title:"Notas",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"es/log/readme.md"};export{e as data};

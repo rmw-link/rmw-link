@@ -1,0 +1,1 @@
+const t={key:"v-761938aa",path:"/sl/log/2021-11-11-rust-android.html",title:"Kompiliranje kiss-ftpd ( rust jezikovni program ) za android set-top box",lang:"sl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"sl/log/2021-11-11-rust-android.md"};export{t as data};

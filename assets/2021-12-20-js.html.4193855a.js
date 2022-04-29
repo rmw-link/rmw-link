@@ -1,1 +1,0 @@
-const t={key:"v-33760211",path:"/hu/log/2021-12-20-js.html",title:"A node.js eszk\xF6zk\xF6nyvt\xE1ram",lang:"hu",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"hu/log/2021-12-20-js.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-2d0a87c7",path:"/et/",title:"Proloog",lang:"et",frontmatter:{},excerpt:"",headers:[{level:2,title:"Kuidas luua v\xF5rdne internet k\xF5igile ?",slug:"kuidas-luua-vordne-internet-koigile",children:[]}],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"et/readme.md"};export{e as data};

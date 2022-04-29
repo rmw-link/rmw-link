@@ -1,1 +1,0 @@
-const t={key:"v-78ea6442",path:"/pl/log/2021-12-20-js.html",title:"Moja biblioteka narz\u0119dzi node.js",lang:"pl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"pl/log/2021-12-20-js.md"};export{t as data};

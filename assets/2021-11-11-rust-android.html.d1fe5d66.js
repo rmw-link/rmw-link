@@ -1,1 +1,0 @@
-const t={key:"v-28310ce1",path:"/sv/log/2021-11-11-rust-android.html",title:"Kompilering av kiss-ftpd (program i rost) f\xF6r android set-top box",lang:"sv",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"sv/log/2021-11-11-rust-android.md"};export{t as data};

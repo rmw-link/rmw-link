@@ -1,1 +1,0 @@
-const t={key:"v-03c87c84",path:"/pt/log/2021-12-09-markdown-translate.html",title:"ferramentas de tradu\xE7\xE3o de remarca\xE7\xE3o para baixo",lang:"pt",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"pt/log/2021-12-09-markdown-translate.md"};export{t as data};

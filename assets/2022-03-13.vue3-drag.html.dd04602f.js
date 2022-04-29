@@ -1,0 +1,1 @@
+const e={key:"v-79e781ee",path:"/sl/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Izrezovalno polje z mo\u017Enostjo vle\u010Denja in spreminjanja velikosti",lang:"sl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"sl/log/2022-03-13.vue3-drag.md"};export{e as data};

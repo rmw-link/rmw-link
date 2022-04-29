@@ -1,1 +1,0 @@
-const e={key:"v-f4f1db12",path:"/es/link.html",title:"Biblioteca de c\xF3digo abierto",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651221604e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"es/link.md"};export{e as data};

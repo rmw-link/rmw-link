@@ -1,0 +1,1 @@
+const t={key:"v-3b21df2b",path:"/ja/log/2021-12-09-markdown-translate.html",title:"\u30DE\u30FC\u30AF\u30C0\u30A6\u30F3\u7FFB\u8A33\u30C4\u30FC\u30EB",lang:"ja",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"ja/log/2021-12-09-markdown-translate.md"};export{t as data};

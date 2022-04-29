@@ -1,0 +1,1 @@
+const e={key:"v-33b6fe1e",path:"/fi/log/",title:"Huomautukset",lang:"fi",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"fi/log/readme.md"};export{e as data};

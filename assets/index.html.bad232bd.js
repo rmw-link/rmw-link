@@ -1,0 +1,1 @@
+const t={key:"v-2d0ab7f9",path:"/ro/",title:"Prologul",lang:"ro",frontmatter:{},excerpt:"",headers:[{level:2,title:"Cum s\u0103 construim un internet egal pentru to\u021Bi?",slug:"cum-sa-construim-un-internet-egal-pentru-toti",children:[]}],git:{updatedTime:1651255958e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:4}]},filePathRelative:"ro/readme.md"};export{t as data};

@@ -1,1 +1,0 @@
-const e={key:"v-2d0ab01a",path:"/pl/",title:"Prolog",lang:"pl",frontmatter:{},excerpt:"",headers:[{level:2,title:"Jak zbudowa\u0107 r\xF3wny Internet dla wszystkich?",slug:"jak-zbudowac-rowny-internet-dla-wszystkich",children:[]}],git:{updatedTime:1651249697e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"pl/readme.md"};export{e as data};

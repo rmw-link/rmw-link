@@ -1,0 +1,1 @@
+const e={key:"v-2d0aa24c",path:"/lv/",title:"Prologs",lang:"lv",frontmatter:{},excerpt:"",headers:[{level:2,title:"K\u0101 izveidot vienl\u012Bdz\u012Bgu internetu visiem?",slug:"ka-izveidot-vienlidzigu-internetu-visiem",children:[]}],git:{updatedTime:1651255673e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:3}]},filePathRelative:"lv/readme.md"};export{e as data};

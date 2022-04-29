@@ -1,0 +1,1 @@
+const e={key:"v-754faae1",path:"/ro/log/2021-12-20-js.html",title:"Biblioteca mea de instrumente node.js",lang:"ro",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"ro/log/2021-12-20-js.md"};export{e as data};

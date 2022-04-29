@@ -1,0 +1,1 @@
+const a={key:"v-50b9ead8",path:"/fi/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Raahattavissa oleva, kokoa muuttava rajauslaatikko.",lang:"fi",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"fi/log/2022-03-13.vue3-drag.md"};export{a as data};

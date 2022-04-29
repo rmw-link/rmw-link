@@ -1,0 +1,1 @@
+const t={key:"v-43f77348",path:"/lt/log/2021-11-11-rust-android.html",title:"Kompiliuoti kiss-ftpd ( r\u016Bd\u017Ei\u0173 kalbos programa ) android set-top box",lang:"lt",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"lt/log/2021-11-11-rust-android.md"};export{t as data};

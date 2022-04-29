@@ -1,0 +1,1 @@
+const e={key:"v-3a1c02b7",path:"/pl/log/2020-11-29-vuepress.html",title:"vuepress build blog",lang:"pl",frontmatter:{},excerpt:"",headers:[{level:2,title:"dostosowanie markdown",slug:"dostosowanie-markdown",children:[]}],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"pl/log/2020-11-29-vuepress.md"};export{e as data};

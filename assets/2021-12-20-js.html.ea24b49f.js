@@ -1,0 +1,1 @@
+const e={key:"v-7089ca40",path:"/nl/log/2021-12-20-js.html",title:"Mijn node.js gereedschap bibliotheek",lang:"nl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"nl/log/2021-12-20-js.md"};export{e as data};

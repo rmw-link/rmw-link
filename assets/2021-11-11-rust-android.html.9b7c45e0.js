@@ -1,0 +1,1 @@
+const t={key:"v-7a90b634",path:"/nl/log/2021-11-11-rust-android.html",title:"Compileren van kiss-ftpd (rust taal programma) voor android set-top box",lang:"nl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"nl/log/2021-11-11-rust-android.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-49d3d885",path:"/pl/log/",title:"Uwagi",lang:"pl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"pl/log/readme.md"};export{e as data};

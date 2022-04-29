@@ -1,0 +1,1 @@
+const t={key:"v-2d0a96cb",path:"/it/",title:"Prologo",lang:"it",frontmatter:{},excerpt:"",headers:[{level:2,title:"Come costruire un Internet uguale per tutti?",slug:"come-costruire-un-internet-uguale-per-tutti",children:[]}],git:{updatedTime:1647320341e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"it/readme.md"};export{t as data};

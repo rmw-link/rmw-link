@@ -1,0 +1,1 @@
+const t={key:"v-0345c474",path:"/cs/log/2021-11-11-rust-android.html",title:"Kompilace kiss-ftpd ( program v jazyce rust ) pro set-top box s Androidem",lang:"cs",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"cs/log/2021-11-11-rust-android.md"};export{t as data};

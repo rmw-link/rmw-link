@@ -1,0 +1,1 @@
+const e={key:"v-3115943e",path:"/en/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : A draggable, resizable clipping box",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"en/log/2022-03-13.vue3-drag.md"};export{e as data};

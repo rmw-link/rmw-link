@@ -1,0 +1,1 @@
+const t={key:"v-d40ca574",path:"/ro/link.html",title:"Biblioteca cu surs\u0103 deschis\u0103",lang:"ro",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651221604e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"ro/link.md"};export{t as data};

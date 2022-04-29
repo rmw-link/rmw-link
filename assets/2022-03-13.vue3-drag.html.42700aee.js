@@ -1,0 +1,1 @@
+const e={key:"v-30719ad2",path:"/ro/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : O caset\u0103 de decupare care poate fi tras\u0103 \u0219i redimensionat\u0103",lang:"ro",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647233736e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"ro/log/2022-03-13.vue3-drag.md"};export{e as data};

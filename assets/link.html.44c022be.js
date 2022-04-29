@@ -1,0 +1,1 @@
+const t={key:"v-4a1887a1",path:"/sk/link.html",title:"Kni\u017Enica s otvoren\xFDm zdrojov\xFDm k\xF3dom",lang:"sk",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651221604e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"sk/link.md"};export{t as data};

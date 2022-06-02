@@ -1,1 +1,0 @@
-const t={key:"v-a0279428",path:"/sv/link.html",title:"Bibliotek med \xF6ppen k\xE4llkod",lang:"sv",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"sv/link.md"};export{t as data};

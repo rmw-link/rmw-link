@@ -1,0 +1,1 @@
+const t={key:"v-50474ad1",path:"/lt/link.html",title:"Atvirojo kodo biblioteka",lang:"lt",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071261e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:3}]},filePathRelative:"lt/link.md"};export{t as data};

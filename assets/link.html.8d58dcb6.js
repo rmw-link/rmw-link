@@ -1,1 +1,0 @@
-const e={key:"v-05c0db86",path:"/da/link.html",title:"Bibliotek med \xE5ben kildekode",lang:"da",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654159477e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"da/link.md"};export{e as data};

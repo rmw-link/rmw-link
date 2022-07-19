@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.38">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    
+    <link rel="modulepreload" href="/assets/app.f05fb683.js"><link rel="modulepreload" href="/assets/2022-07-20_mdi.html.4fb2b223.js"><link rel="modulepreload" href="/assets/2022-07-20_mdi.html.f15c9f07.js">
+    <link rel="stylesheet" href="/assets/style.0767db0e.css">
+  </head>
+  <body>
+    <div id="app"><!----></div>
+    <script type="module" src="/assets/app.f05fb683.js" defer></script>
+  </body>
+</html>

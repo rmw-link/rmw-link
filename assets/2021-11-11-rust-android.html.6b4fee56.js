@@ -1,1 +1,0 @@
-const a={key:"v-5843ce9a",path:"/lv/log/2021-11-11-rust-android.html",title:"kompil\u0113\u0161ana kiss-ftpd ( r\u016Bsas valodas programma ) android set-top box",lang:"lv",frontmatter:{},excerpt:"",headers:[]};export{a as data};

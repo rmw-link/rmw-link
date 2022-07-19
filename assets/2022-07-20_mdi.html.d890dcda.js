@@ -1,1 +1,0 @@
-const e={key:"v-0e1e5411",path:"/de/log/2022-07-20_mdi.html",title:"mdi : Code in Markdown einbetten / Versionsnummer / Markdown ...",lang:"de",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vorwort",slug:"vorwort",children:[]},{level:2,title:"Einrichtung",slug:"einrichtung",children:[]},{level:2,title:"Verwenden Sie",slug:"verwenden-sie",children:[]}]};export{e as data};

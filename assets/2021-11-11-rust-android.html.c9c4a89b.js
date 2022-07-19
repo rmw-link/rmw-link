@@ -1,1 +1,0 @@
-const t={key:"v-1579f047",path:"/ro/log/2021-11-11-rust-android.html",title:"Compilarea kiss-ftpd (program \xEEn limba rugin\u0103) pentru android set-top box",lang:"ro",frontmatter:{},excerpt:"",headers:[]};export{t as data};

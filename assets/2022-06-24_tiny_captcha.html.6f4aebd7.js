@@ -1,1 +1,0 @@
-const t={key:"v-5ec9846d",path:"/hu/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : rozsda k\xF6nny\u0171 captcha gener\xE1tor, ford\xEDthat\xF3 wasm-be",lang:"hu",frontmatter:{},excerpt:"",headers:[]};export{t as data};

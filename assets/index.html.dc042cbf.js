@@ -1,1 +1,0 @@
-const t={key:"v-2d0a96cb",path:"/it/",title:"Prologo",lang:"it",frontmatter:{},excerpt:"",headers:[{level:2,title:"Come costruire un Internet uguale per tutti?",slug:"come-costruire-un-internet-uguale-per-tutti",children:[]}]};export{t as data};

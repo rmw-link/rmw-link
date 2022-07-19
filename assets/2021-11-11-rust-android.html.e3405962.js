@@ -1,1 +1,0 @@
-const t={key:"v-0a9f80d0",path:"/fr/log/2021-11-11-rust-android.html",title:"Compilation de kiss-ftpd (programme en langage rust) pour le set-top box android",lang:"fr",frontmatter:{},excerpt:"",headers:[]};export{t as data};

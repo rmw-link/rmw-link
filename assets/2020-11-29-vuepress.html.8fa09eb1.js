@@ -1,1 +1,0 @@
-const e={key:"v-66fe2d50",path:"/fi/log/2020-11-29-vuepress.html",title:"vuepress rakentaa blogi",lang:"fi",frontmatter:{},excerpt:"",headers:[{level:2,title:"markdownin mukauttaminen",slug:"markdownin-mukauttaminen",children:[]}]};export{e as data};

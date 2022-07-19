@@ -1,1 +1,0 @@
-const e={key:"v-94ab478e",path:"/en/log/2022-07-20_mdi.html",title:"mdi : embed code in markdown / version number / markdown ...",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Preface",slug:"preface",children:[]},{level:2,title:"Installation",slug:"installation",children:[]},{level:2,title:"Use",slug:"use",children:[]}]};export{e as data};

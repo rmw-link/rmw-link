@@ -1,1 +1,0 @@
-const e={key:"v-64feb9ad",path:"/sk/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : V\xFDrezov\xFD r\xE1m\u010Dek s mo\u017Enos\u0165ou pre\u0165ahovania a zmeny ve\u013Ekosti",lang:"sk",frontmatter:{},excerpt:"",headers:[]};export{e as data};

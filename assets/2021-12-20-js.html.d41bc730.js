@@ -1,1 +1,0 @@
-const t={key:"v-5d59041b",path:"/ru/log/2021-12-20-js.html",title:"\u041C\u043E\u044F \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u043E\u0432 node.js",lang:"ru",frontmatter:{},excerpt:"",headers:[]};export{t as data};

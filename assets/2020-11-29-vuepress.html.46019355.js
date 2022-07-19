@@ -1,1 +1,0 @@
-const e={key:"v-104a7235",path:"/nl/log/2020-11-29-vuepress.html",title:"vuepress bouw blog",lang:"nl",frontmatter:{},excerpt:"",headers:[{level:2,title:"markdown aanpassing",slug:"markdown-aanpassing",children:[]}]};export{e as data};

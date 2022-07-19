@@ -1,1 +1,0 @@
-const a={key:"v-67dc04dd",path:"/lt/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Velkamas, kei\u010Diamo dyd\u017Eio apkarpymo langelis",lang:"lt",frontmatter:{},excerpt:"",headers:[]};export{a as data};

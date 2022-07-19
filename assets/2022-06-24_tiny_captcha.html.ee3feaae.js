@@ -1,1 +1,0 @@
-const t={key:"v-7f6a0a6c",path:"/zh/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : rust \u8F7B\u91CF\u7EA7\u9A8C\u8BC1\u7801\u751F\u6210\u5668\uFF0C\u53EF\u4EE5\u7F16\u8BD1\u6210 wasm",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[]};export{t as data};

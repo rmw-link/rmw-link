@@ -1,0 +1,1 @@
+const t={key:"v-f83c9f0e",path:"/lt/log/",title:"Pastabos",lang:"lt",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"lt/log/readme.md"};export{t as data};

@@ -1,1 +1,0 @@
-const e={key:"v-6267ab82",path:"/et/log/2022-07-20_mdi.html",title:"mdi : koodi sisseehitamine markdowni / versiooni number / markdown ...",lang:"et",frontmatter:{},excerpt:"",headers:[{level:2,title:"Eess\xF5na",slug:"eessona",children:[]},{level:2,title:"Paigaldamine",slug:"paigaldamine",children:[]},{level:2,title:"Kasutage",slug:"kasutage",children:[]}]};export{e as data};

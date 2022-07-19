@@ -1,0 +1,1 @@
+const t={key:"v-284382aa",path:"/lt/log/2020-11-29-vuepress.html",title:"vuepress sukurti dienora\u0161t\u012F",lang:"lt",frontmatter:{},excerpt:"",headers:[{level:2,title:"markdown pritaikymas",slug:"markdown-pritaikymas",children:[]}]};export{t as data};

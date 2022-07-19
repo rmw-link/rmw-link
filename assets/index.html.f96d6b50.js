@@ -1,0 +1,1 @@
+const e={key:"v-2d0abb5d",path:"/sl/",title:"Prolog",lang:"sl",frontmatter:{},excerpt:"",headers:[{level:2,title:"Kako vzpostaviti enakopraven internet za vse?",slug:"kako-vzpostaviti-enakopraven-internet-za-vse",children:[]}]};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-586fbe56",path:"/pt/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : gerador de captcha leve de ferrugem, compil\xE1vel para wasm",lang:"pt",frontmatter:{},excerpt:"",headers:[]};export{t as data};

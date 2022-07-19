@@ -1,0 +1,1 @@
+const t={key:"v-2d0ab01a",path:"/pl/",title:"Prolog",lang:"pl",frontmatter:{},excerpt:"",headers:[{level:2,title:"Jak zbudowa\u0107 r\xF3wny Internet dla wszystkich ?",slug:"jak-zbudowac-rowny-internet-dla-wszystkich",children:[]}]};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-40d3bffa",path:"/zh/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : \u53EF\u62D6\u62FD\u3001\u8C03\u6574\u5927\u5C0F\u7684\u526A\u88C1\u6846",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[]};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-5574bf2a",path:"/en/log/2020-11-29-vuepress.html",title:"vuepress build blog",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"markdown customization",slug:"markdown-customization",children:[]}]};export{e as data};

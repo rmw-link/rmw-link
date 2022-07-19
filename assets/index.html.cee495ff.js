@@ -1,0 +1,1 @@
+const t={key:"v-2d0a87a8",path:"/es/",title:"Pr\xF3logo",lang:"es",frontmatter:{},excerpt:"",headers:[{level:2,title:"\xBFC\xF3mo construir una Internet igual para todos?",slug:"\xBFcomo-construir-una-internet-igual-para-todos",children:[]}]};export{t as data};

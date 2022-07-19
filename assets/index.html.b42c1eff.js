@@ -1,0 +1,1 @@
+const e={key:"v-2d0abb3e",path:"/sk/",title:"Prol\xF3g",lang:"sk",frontmatter:{},excerpt:"",headers:[{level:2,title:"Ako vybudova\u0165 rovnak\xFD internet pre v\u0161etk\xFDch?",slug:"ako-vybudovat-rovnaky-internet-pre-vsetkych",children:[]}]};export{e as data};

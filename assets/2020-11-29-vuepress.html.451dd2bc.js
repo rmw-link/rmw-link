@@ -1,0 +1,1 @@
+const e={key:"v-a5b83430",path:"/it/log/2020-11-29-vuepress.html",title:"vuepress costruire blog",lang:"it",frontmatter:{},excerpt:"",headers:[{level:2,title:"personalizzazione markdown",slug:"personalizzazione-markdown",children:[]}]};export{e as data};

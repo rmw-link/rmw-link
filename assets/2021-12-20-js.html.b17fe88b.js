@@ -1,1 +1,0 @@
-const t={key:"v-0979bc66",path:"/sk/log/2021-12-20-js.html",title:"Moja kni\u017Enica n\xE1strojov node.js",lang:"sk",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"sk/log/2021-12-20-js.md"};export{t as data};

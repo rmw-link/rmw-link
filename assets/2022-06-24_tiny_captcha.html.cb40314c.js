@@ -1,0 +1,1 @@
+const t={key:"v-25c0fdea",path:"/et/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : rooste kergekaaluline captcha generaator, mis on kompileeritav wasm'ile",lang:"et",frontmatter:{},excerpt:"",headers:[]};export{t as data};

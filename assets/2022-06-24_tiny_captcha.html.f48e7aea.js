@@ -1,1 +1,0 @@
-const t={key:"v-98ca5912",path:"/fi/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : ruosteessa kevyt captcha generaattori, k\xE4\xE4nnett\xE4viss\xE4 wasm:ksi.",lang:"fi",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071575e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"fi/log/2022-06-24_tiny_captcha.md"};export{t as data};

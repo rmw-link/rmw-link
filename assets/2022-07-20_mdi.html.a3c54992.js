@@ -1,0 +1,1 @@
+const e={key:"v-0545bfe6",path:"/da/log/2022-07-20_mdi.html",title:"mdi : indlejring af kode i markdown / versionsnummer / markdown ...",lang:"da",frontmatter:{},excerpt:"",headers:[{level:2,title:"Forord",slug:"forord",children:[]},{level:2,title:"Installation",slug:"installation",children:[]},{level:2,title:"Brug",slug:"brug",children:[]}]};export{e as data};

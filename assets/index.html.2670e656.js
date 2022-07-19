@@ -1,0 +1,1 @@
+const e={key:"v-2d0a81b9",path:"/da/",title:"Prolog",lang:"da",frontmatter:{},excerpt:"",headers:[{level:2,title:"Hvordan opbygger man et ligev\xE6rdigt internet for alle?",slug:"hvordan-opbygger-man-et-ligev\xE6rdigt-internet-for-alle",children:[]}]};export{e as data};

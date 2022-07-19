@@ -1,0 +1,1 @@
+const t={key:"v-2d0a8026",path:"/cs/",title:"Prolog",lang:"cs",frontmatter:{},excerpt:"",headers:[{level:2,title:"Jak vytvo\u0159it rovn\xFD internet pro v\u0161echny?",slug:"jak-vytvorit-rovny-internet-pro-vsechny",children:[]}]};export{t as data};

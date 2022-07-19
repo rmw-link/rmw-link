@@ -1,1 +1,0 @@
-const e={key:"v-5980c4e4",path:"/et/log/2020-11-29-vuepress.html",title:"vuepress ehitada blogi",lang:"et",frontmatter:{},excerpt:"",headers:[{level:2,title:"markdown kohandamine",slug:"markdown-kohandamine",children:[]}],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"et/log/2020-11-29-vuepress.md"};export{e as data};

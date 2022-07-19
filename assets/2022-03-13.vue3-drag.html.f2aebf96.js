@@ -1,0 +1,1 @@
+const r={key:"v-4aff5478",path:"/sv/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : En dragbar, storleks\xE4ndringsbar utklippningsruta",lang:"sv",frontmatter:{},excerpt:"",headers:[]};export{r as data};

@@ -1,1 +1,0 @@
-const e={key:"v-a2eb7478",path:"/et/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : lohistatav, muudetava suurusega l\xF5ikekast.",lang:"et",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"et/log/2022-03-13.vue3-drag.md"};export{e as data};

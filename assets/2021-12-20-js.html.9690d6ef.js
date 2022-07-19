@@ -1,0 +1,1 @@
+const e={key:"v-6a51d592",path:"/el/log/2021-12-20-js.html",title:"\u0397 \u03B2\u03B9\u03B2\u03BB\u03B9\u03BF\u03B8\u03AE\u03BA\u03B7 \u03B5\u03C1\u03B3\u03B1\u03BB\u03B5\u03AF\u03C9\u03BD node.js",lang:"el",frontmatter:{},excerpt:"",headers:[]};export{e as data};

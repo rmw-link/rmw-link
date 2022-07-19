@@ -1,0 +1,1 @@
+const e={key:"v-2d0abc93",path:"/sv/",title:"Prolog",lang:"sv",frontmatter:{},excerpt:"",headers:[{level:2,title:"Hur bygger vi ett lika internet f\xF6r alla?",slug:"hur-bygger-vi-ett-lika-internet-for-alla",children:[]}]};export{e as data};

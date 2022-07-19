@@ -1,1 +1,0 @@
-const e={key:"v-5e137ada",path:"/nl/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Een versleepbare, resizable knipseldoos",lang:"nl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"nl/log/2022-03-13.vue3-drag.md"};export{e as data};

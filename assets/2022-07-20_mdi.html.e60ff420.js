@@ -1,0 +1,1 @@
+const e={key:"v-8424a364",path:"/nl/log/2022-07-20_mdi.html",title:"mdi : code insluiten in markdown / versienummer / markdown ...",lang:"nl",frontmatter:{},excerpt:"",headers:[{level:2,title:"Voorwoord",slug:"voorwoord",children:[]},{level:2,title:"Installatie",slug:"installatie",children:[]},{level:2,title:"Gebruik",slug:"gebruik",children:[]}]};export{e as data};

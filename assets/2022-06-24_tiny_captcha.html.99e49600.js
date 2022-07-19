@@ -1,0 +1,1 @@
+const t={key:"v-65ffb183",path:"/ja/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : wasm \u306B\u30B3\u30F3\u30D1\u30A4\u30EB\u53EF\u80FD\u306A rust \u8EFD\u91CF\u30AD\u30E3\u30D7\u30C1\u30E3\u30B8\u30A7\u30CD\u30EC\u30FC\u30BF",lang:"ja",frontmatter:{},excerpt:"",headers:[]};export{t as data};

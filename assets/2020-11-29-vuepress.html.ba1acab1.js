@@ -1,0 +1,1 @@
+const e={key:"v-3a79ee52",path:"/de/log/2020-11-29-vuepress.html",title:"vuepress build blog",lang:"de",frontmatter:{},excerpt:"",headers:[{level:2,title:"Anpassung der Abschriften",slug:"anpassung-der-abschriften",children:[]}]};export{e as data};

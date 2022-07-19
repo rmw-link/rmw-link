@@ -1,0 +1,1 @@
+const t={key:"v-523e63d9",path:"/bg/log/2021-12-20-js.html",title:"\u041C\u043E\u044F\u0442\u0430 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430 \u0441 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0438 \u043D\u0430 node.js",lang:"bg",frontmatter:{},excerpt:"",headers:[]};export{t as data};

@@ -1,0 +1,1 @@
+const a={key:"v-3f815faf",path:"/pt/log/2020-11-29-vuepress.html",title:"vuepress construir blog",lang:"pt",frontmatter:{},excerpt:"",headers:[{level:2,title:"personaliza\xE7\xE3o de remarca\xE7\xE3o para baixo",slug:"personalizacao-de-remarcacao-para-baixo",children:[]}]};export{a as data};

@@ -1,0 +1,1 @@
+const e={key:"v-2d0a8235",path:"/de/",title:"Prolog",lang:"de",frontmatter:{},excerpt:"",headers:[{level:2,title:"Wie kann ein gleichberechtigtes Internet f\xFCr alle geschaffen werden?",slug:"wie-kann-ein-gleichberechtigtes-internet-fur-alle-geschaffen-werden",children:[]}]};export{e as data};

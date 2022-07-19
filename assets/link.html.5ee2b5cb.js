@@ -1,1 +1,0 @@
-const t={key:"v-73b9c14e",path:"/bg/link.html",title:"\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430 \u0441 \u043E\u0442\u0432\u043E\u0440\u0435\u043D \u043A\u043E\u0434",lang:"bg",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071261e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:3}]},filePathRelative:"bg/link.md"};export{t as data};

@@ -1,1 +1,0 @@
-const e={key:"v-26936bd4",path:"/de/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Eine verschiebbare, gr\xF6\xDFenver\xE4nderbare Clipping-Box",lang:"de",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"de/log/2022-03-13.vue3-drag.md"};export{e as data};

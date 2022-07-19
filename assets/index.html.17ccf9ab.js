@@ -1,0 +1,1 @@
+const e={key:"v-2d0a9329",path:"/hu/",title:"Prol\xF3gus",lang:"hu",frontmatter:{},excerpt:"",headers:[{level:2,title:"Hogyan lehet mindenki sz\xE1m\xE1ra egyenl\u0151 internetet \xE9p\xEDteni ?",slug:"hogyan-lehet-mindenki-szamara-egyenlo-internetet-epiteni",children:[]}]};export{e as data};

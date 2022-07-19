@@ -1,0 +1,1 @@
+const t={key:"v-f058c0e8",path:"/sk/log/2021-11-11-rust-android.html",title:"Kompil\xE1cia kiss-ftpd ( program v jazyku rust ) pre android set-top box",lang:"sk",frontmatter:{},excerpt:"",headers:[]};export{t as data};

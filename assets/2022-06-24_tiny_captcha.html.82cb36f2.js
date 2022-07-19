@@ -1,0 +1,1 @@
+const t={key:"v-98ca5912",path:"/fi/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : ruosteessa kevyt captcha generaattori, k\xE4\xE4nnett\xE4viss\xE4 wasm:ksi.",lang:"fi",frontmatter:{},excerpt:"",headers:[]};export{t as data};

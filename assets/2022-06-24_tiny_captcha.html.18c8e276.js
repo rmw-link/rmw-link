@@ -1,1 +1,0 @@
-const t={key:"v-b80846be",path:"/sl/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : rust lightweight captcha generator, ki ga je mogo\u010De sestaviti v wasm",lang:"sl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071575e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"sl/log/2022-06-24_tiny_captcha.md"};export{t as data};

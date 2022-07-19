@@ -1,1 +1,0 @@
-const e={key:"v-7a4b9a16",path:"/en/log/2021-12-20-js.html",title:"My node.js tool library",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"en/log/2021-12-20-js.md"};export{e as data};

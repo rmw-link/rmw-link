@@ -1,0 +1,1 @@
+const e={key:"v-78d65b7a",path:"/sl/log/2020-11-29-vuepress.html",title:"vuepress graditi blog",lang:"sl",frontmatter:{},excerpt:"",headers:[{level:2,title:"prilagajanje markdown",slug:"prilagajanje-markdown",children:[]}]};export{e as data};

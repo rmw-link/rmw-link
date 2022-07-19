@@ -1,0 +1,1 @@
+const t={key:"v-a2eb7478",path:"/et/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : lohistatav, muudetava suurusega l\xF5ikekast.",lang:"et",frontmatter:{},excerpt:"",headers:[]};export{t as data};

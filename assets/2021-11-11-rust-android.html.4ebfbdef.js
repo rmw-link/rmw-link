@@ -1,0 +1,1 @@
+const t={key:"v-1de2ba07",path:"/da/log/2021-11-11-rust-android.html",title:"Kompilering af kiss-ftpd ( program p\xE5 rustsprog ) til android set-top boks",lang:"da",frontmatter:{},excerpt:"",headers:[]};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-073985d7",path:"/sv/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : Rost l\xE4ttviktig captcha-generator, kompilerbar till wasm",lang:"sv",frontmatter:{},excerpt:"",headers:[]};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-0e170815",path:"/et/log/2021-11-11-rust-android.html",title:"Kiss-ftpd ( rooste keele programm ) android digiboksi jaoks kompileerimine",lang:"et",frontmatter:{},excerpt:"",headers:[]};export{e as data};

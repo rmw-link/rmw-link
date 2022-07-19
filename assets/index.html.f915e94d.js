@@ -1,1 +1,0 @@
-const t={key:"v-2d0ab112",path:"/pt/",title:"Pr\xF3logo",lang:"pt",frontmatter:{},excerpt:"",headers:[{level:2,title:"Como construir uma Internet igual para todos ?",slug:"como-construir-uma-internet-igual-para-todos",children:[]}]};export{t as data};

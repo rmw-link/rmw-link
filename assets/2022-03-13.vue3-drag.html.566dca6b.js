@@ -1,1 +1,0 @@
-const e={key:"v-eec5f74e",path:"/pt/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Uma caixa de recorte redimension\xE1vel e arrast\xE1vel",lang:"pt",frontmatter:{},excerpt:"",headers:[]};export{e as data};

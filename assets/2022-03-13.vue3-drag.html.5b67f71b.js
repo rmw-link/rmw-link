@@ -1,1 +1,0 @@
-const t={key:"v-5c03cda2",path:"/hu/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Egy h\xFAzhat\xF3, \xE1tm\xE9retezhet\u0151 v\xE1g\xF3doboz",lang:"hu",frontmatter:{},excerpt:"",headers:[]};export{t as data};

@@ -1,1 +1,0 @@
-const t={key:"v-06299a06",path:"/da/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : rust letv\xE6gts captcha-generator, kompilerbar til wasm",lang:"da",frontmatter:{},excerpt:"",headers:[]};export{t as data};

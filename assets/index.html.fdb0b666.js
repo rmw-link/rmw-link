@@ -1,1 +1,0 @@
-const e={key:"v-2d0a8a33",path:"/fi/",title:"Prologi",lang:"fi",frontmatter:{},excerpt:"",headers:[{level:2,title:"Miten rakennetaan tasa-arvoinen Internet kaikille?",slug:"miten-rakennetaan-tasa-arvoinen-internet-kaikille",children:[]}]};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-7a10b053",path:"/lv/link.html",title:"Atv\u0113rt\u0101 koda bibliot\u0113ka",lang:"lv",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071261e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:3}]},filePathRelative:"lv/link.md"};export{t as data};

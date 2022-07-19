@@ -1,1 +1,0 @@
-const t={key:"v-16fb2d86",path:"/ro/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : generator de captcha u\u0219or, compilabil \xEEn wasm",lang:"ro",frontmatter:{},excerpt:"",headers:[]};export{t as data};

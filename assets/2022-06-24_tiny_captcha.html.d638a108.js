@@ -1,0 +1,1 @@
+const t={key:"v-eefaffe2",path:"/it/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : generatore di captcha rust e leggero, compilabile con wasm",lang:"it",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071575e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"it/log/2022-06-24_tiny_captcha.md"};export{t as data};

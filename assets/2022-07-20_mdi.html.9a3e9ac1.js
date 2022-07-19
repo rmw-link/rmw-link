@@ -1,1 +1,0 @@
-const e={key:"v-1de1601a",path:"/sv/log/2022-07-20_mdi.html",title:"mdi : b\xE4dda in kod i markdown / versionsnummer / markdown ...",lang:"sv",frontmatter:{},excerpt:"",headers:[{level:2,title:"F\xF6rord",slug:"forord",children:[]},{level:2,title:"Installation",slug:"installation",children:[]},{level:2,title:"Anv\xE4nd",slug:"anvand",children:[]}]};export{e as data};

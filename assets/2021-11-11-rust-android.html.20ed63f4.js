@@ -1,1 +1,0 @@
-const e={key:"v-56db4afe",path:"/fi/log/2021-11-11-rust-android.html",title:"Kiss-ftpd:n ( ruosteenkielinen ohjelma ) k\xE4\xE4nt\xE4minen android-sovittimelle.",lang:"fi",frontmatter:{},excerpt:"",headers:[]};export{e as data};

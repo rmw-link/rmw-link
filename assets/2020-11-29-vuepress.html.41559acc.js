@@ -1,1 +1,0 @@
-const e={key:"v-ce306d74",path:"/hu/log/2020-11-29-vuepress.html",title:"vuepress \xE9p\xEDt blog",lang:"hu",frontmatter:{},excerpt:"",headers:[{level:2,title:"markdown testreszab\xE1s",slug:"markdown-testreszabas",children:[]}]};export{e as data};

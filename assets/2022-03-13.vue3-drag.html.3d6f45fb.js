@@ -1,0 +1,1 @@
+const e={key:"v-ccbd04fa",path:"/es/log/2022-03-13.vue3-drag.html",title:"@rmw/vue3-drag : Un cuadro de recorte que se puede arrastrar y redimensionar",lang:"es",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"es/log/2022-03-13.vue3-drag.md"};export{e as data};

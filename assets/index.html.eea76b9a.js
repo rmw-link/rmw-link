@@ -1,1 +1,0 @@
-const e={key:"v-2d0a87c7",path:"/et/",title:"Proloog",lang:"et",frontmatter:{},excerpt:"",headers:[{level:2,title:"Kuidas luua v\xF5rdne internet k\xF5igile ?",slug:"kuidas-luua-vordne-internet-koigile",children:[]}]};export{e as data};

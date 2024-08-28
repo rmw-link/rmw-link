@@ -1,0 +1,1 @@
+const e={key:"v-c5e0d69c",path:"/en/link.html",title:"Open Source Library",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071261e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:3}]},filePathRelative:"en/link.md"};export{e as data};

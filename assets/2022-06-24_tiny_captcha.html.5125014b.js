@@ -1,0 +1,1 @@
+const t={key:"v-3b63852c",path:"/cs/log/2022-06-24_tiny_captcha.html",title:"tiny_captcha : rust lightweight captcha generator, kompilovateln\xFD do wasm",lang:"cs",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071575e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:2}]},filePathRelative:"cs/log/2022-06-24_tiny_captcha.md"};export{t as data};

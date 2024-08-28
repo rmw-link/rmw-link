@@ -1,0 +1,1 @@
+const e={key:"v-2ef2eb70",path:"/sl/log/",title:"Opombe",lang:"sl",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"sl/log/readme.md"};export{e as data};

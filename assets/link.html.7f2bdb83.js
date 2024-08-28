@@ -1,0 +1,1 @@
+const e={key:"v-5953a68a",path:"/de/link.html",title:"Open-Source-Bibliothek",lang:"de",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1656071261e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:3}]},filePathRelative:"de/link.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-7fc10b77",path:"/hu/log/2021-11-11-rust-android.html",title:"Kiss-ftpd ( rozsda nyelvi program ) ford\xEDt\xE1sa android set-top boxhoz",lang:"hu",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"hu/log/2021-11-11-rust-android.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-b3d67ade",path:"/cs/log/",title:"Pozn\xE1mky",lang:"cs",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651249385e3,contributors:[{name:"gcxfd",email:"i@rmw.link",commits:1}]},filePathRelative:"cs/log/readme.md"};export{e as data};
